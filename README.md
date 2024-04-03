@@ -13,15 +13,16 @@ The dataset contains images divided into two classes: organic waste and recycled
 The aim of the project was waste classification by using Deep Neural Networks. The dataset contains waste images recyclable and organic ones. I have built a model to predict if the waste may be recyclable or not. In the analysis, I have used the Convolutional Neural Network (CNN) model with data augmentation and transfer learning to get more accurate predictions and choose the best one for that.
 
 # Project includes:
-Waste classification with CNN model - Waste_cnn.ipynb
-Waste Classification with data augmentation - Waste_Augumentation.ipynb
-Waste Classification with transfer learning - waste_transfer_learning.ipynb
+Garbage classification with CNN model - Garbage_cnn.ipynb
+Garbage Classification with data augmentation - Garbage_Augumentation.ipynb
+
 
 # Technologies
 The project is created with:
 
-Python 3.8
-libraries: TensorFlow, Keras, pillow, numpy, pandas, seaborn.
-Running the project:
+Python 3.9
+libraries: TensorFlow, Keras, numpy, pandas, seaborn.
+
+# Running the project:
 
 To run this project use Jupyter Notebook or Google Colab.
